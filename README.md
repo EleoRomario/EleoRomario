@@ -49,12 +49,8 @@
 
 ## &#x1f4c8; GitHub Stats
 <hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleoromario)](https://github.com/eleoromario/github-readme-stats)
-
-<hr>
 <a href="https://github.com/EleoRomario/EleoRomario/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EleoRomario&show_icons=true&line_height=27&count_private=true&&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eleoromario&show_icons=true&line_height=27&count_private=true" />
 </a>
 
 <!--
