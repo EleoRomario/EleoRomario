@@ -1,16 +1,18 @@
 <h1 align='center'> Hola 👋, Soy Eleo Romario</h1>
 
 <p align='center'>
- Soy un desarrollador Frontend con pasión por la tecnología y la innovación. Me especializo en ReactJS, TailwindCSS, Next.js, Node.js, Figma y más. Soy autodidacta y siempre estoy buscando nuevas formas de aprender.
+ Soy un desarrollador de software con pasión por la tecnología y la innovación. Me especializo en ReactJS, TailwindCSS, Next.js, Node.js, Figma y más. Siempre estoy buscando nuevas formas de aprender.
 </p>
 <p align="center" >
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=eleoromario&theme=tokyonight" />
+ <a href="https://eleo-romario.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=web&logoColor=white" />
+ </a>
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/eleo-romario"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:eleo.romarioa@gmail.com?subject=Hola%20Eleo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <a href="https://www.linkedin.com/in/eleo-romario"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/EleoRomario"><img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:eleo.romarioa@gmail.com?subject=Hola%20Eleo"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
 
@@ -27,7 +29,6 @@
   <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </p>
 
@@ -63,18 +64,15 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<hr>
-<a href="https://github.com/EleoRomario/EleoRomario/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eleoromario&show_icons=true&line_height=27&count_private=true" />
-</a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eleoromario&theme=github_dark)
 
 ## &#x1f4c8; Activity Graph
-<a href="https://github.com/EleoRomario/EleoRomario/">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eleoromario&theme=react" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eleoromario&theme=github_dark)
 
 ## &#x1f4c8;📊 Most Used Language
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleoromario&theme=tokyonight" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eleoromario&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eleoromario&theme=github_dark)
 <!--
 **EleoRomario/EleoRomario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
